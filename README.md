@@ -2,7 +2,8 @@
 
 A modern, high-performance, and feature-rich graphical interface for **scrcpy**, built with .NET 10, WPF, and WebView2. This GUI provides a sleek, dark-themed experience for mirroring and controlling Android devices with ease.
 
-![Theme Preview](https://via.placeholder.com/800x450?text=Scrcpy+GUI+Ultraviolet+Theme)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/06586fc2-b5e3-4edd-bdad-062cd9d49a20" />
+
 
 ## 🚀 Key Features
 
