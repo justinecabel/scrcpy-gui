@@ -34,15 +34,17 @@ A modern, high-performance, and feature-rich graphical interface for **scrcpy**,
 *   **Device Nicknames**: Give your devices human-readable names instead of cryptic ADB IDs.
 *   **Intelligent Hints**: Hover over any option to see a detailed explanation box.
 
-## 📥 Getting Started
+## 📥 Download & Use
 
-### Prerequisites
-*   **Windows 10/11**
-*   **.NET 10.0 Runtime**
-*   **WebView2 Runtime** (Included in Windows 11)
-*   **Developer Options** and **USB Debugging** enabled on your Android device.
+### For Users (Ready to Run)
+If you just want to use the app without touching any code:
+1.  Go to the [**Releases**](https://github.com/kil0bit-kb/scrcpy-gui/releases) page.
+2.  Download the latest `ScrcpyGUI_v3.0.zip`.
+3.  Extract the zip file anywhere on your PC.
+4.  Run `ScrcpyGuiDotNet.exe`.
+5.  Click the **Download** button in the app header to automatically get the required scrcpy binaries.
 
-### Installation
+### For Developers (Build from Source)
 1.  Clone the repository:
     ```bash
     git clone https://github.com/kil0bit-kb/scrcpy-gui.git
