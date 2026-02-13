@@ -1,0 +1,23 @@
+# .gitignore for ScrcpyGuiDotNet
+
+# Build artifacts
+bin/
+obj/
+[Rr]elease/
+[Dd]ebug/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# App-specific temporary files
+scrcpy_temp.zip
+scrcpy-bin/
+temp_extract/
+/ScrcpyGUI_Clean/
+
+# WebView2 user data
+/ScrcpyGui_WebView2/
